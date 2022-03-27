@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Haitian Xie"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate, UC San Diego"
+  bio              : "Ph.D. Candidate"
   location         : #"San Diego, CA"
-  employer         :
+  employer         : UC San Diego
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : hax082@ucsd.edu
@@ -178,8 +178,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
+  research:
+    output: #true
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true

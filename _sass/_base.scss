@@ -1,6 +1,13 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+   .collapse {
+    display: none;
+    &.show {
+      display: block;
+    }
+  }
+
 html {
   /* sticky footer fix */
   position: relative;
