@@ -17,5 +17,6 @@ My research fields are econometrics and economic theory. My recent research focu
 - Causal inference
   - regression discontinuity design
   - local average treatment effect
-- Policy design
-- Robust mechanism design, robust pricing strategies
+- Personalized policy design
+- Robust mechanism design
+- Data-based price discrimination
