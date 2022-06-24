@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haitian Xie"
+  name             : "Haitian Xie (解海天)"
   avatar           : "profilepic0609.jpg"
-  bio              : "Ph.D. Candidate"
+  bio              : "Economics PhD Candidate"
   location         : #"San Diego, CA"
   employer         : UC San Diego
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : xiehaitian_econ
   vine             :
   weibo            :
   xing             :
