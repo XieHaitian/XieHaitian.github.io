@@ -22,23 +22,19 @@ Please see the following records for more details.
 
 - ECON 220A: Econometrics A (Ph.D. Core)
 
-  Student Recommendations: Fall 2021 [[100%]](/files/220A_FA2021.pdf), Fall 2020 [[100%]](/files/220A_FA2020.pdf), Fall 2019 [[83%]](/files/220A_FA2019.pdf)
-
-  > Haitian was by far the most empathetic with students and understood the issues we found the most challenging. His reviews were very useful and to the point. Overall, it was a very nice experience having him as a TA.
-
-  > Haitian is very prepared and professional. You can clearly see that he has a lot of experience on the subject and the course. The discussions were fundamental to integrate the material covered in class and Haitian was able to organize the sessions in a very clever and clear way. It surprised me how good he is at explaining complex topics in simple words.
+  Student Recommendations: Fall 2021, Fall 2020, Fall 2019
 
 - ECON 178: Economic & Business Forecasting (Undergraduate)
 
-  Student Recommendations: Winter 2022 [[100%]](/files/178_WI2022.pdf)
+  Student Recommendations: Winter 2022
 
 - ECON 120C: Econometrics C (Undergraduate)
 
-  Student Recommendations: Summer 2021 [[100%]](/files/120C_SU2021.pdf), Spring 2021 [[100%]](/files/120C_SP2021.pdf)
+  Student Recommendations: Summer 2021, Spring 2021
 
 - ECON 120B: Econometrics B (Undergraduate)
 
-  Student Recommendations: Summer 2021 [[100%]](/files/120B_SU2021.pdf)
+  Student Recommendations: Summer 2021
 
 
 
