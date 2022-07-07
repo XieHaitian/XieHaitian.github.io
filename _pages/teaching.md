@@ -22,19 +22,19 @@ Please see the following records for more details.
 
 - ECON 220A: Econometrics A (Ph.D. Core)
 
-  Student Recommendations: Fall 2021, Fall 2020, Fall 2019
+  Fall 2021, Fall 2020, Fall 2019
 
 - ECON 178: Economic & Business Forecasting (Undergraduate)
 
-  Student Recommendations: Winter 2022
+  Winter 2022
 
 - ECON 120C: Econometrics C (Undergraduate)
 
-  Student Recommendations: Summer 2021, Spring 2021
+  Summer 2021, Spring 2021
 
 - ECON 120B: Econometrics B (Undergraduate)
 
-  Student Recommendations: Summer 2021
+  Summer 2021
 
 
 
