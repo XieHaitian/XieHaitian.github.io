@@ -20,7 +20,11 @@ Please see the following records for more details.
 
 ### As Teaching Assistance
 
-- ECON 220A: Econometrics A (Ph.D. Core)
+- Econometrics PhD Qualifying Exam Review
+
+  Summer 2022
+
+- ECON 220A: Econometrics A (PhD Core)
 
   Fall 2021, Fall 2020, Fall 2019
 

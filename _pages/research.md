@@ -5,98 +5,64 @@ permalink: /research/
 author_profile: true
 ---
 
+<h2 class="archive__item-title" itemprop="headline"> Job Market Paper </h2>
 
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h2 class="archive__item-title" itemprop="headline">
-      Nonlinear and Nonseparable Structural Functions in Fuzzy Regression Discontinuity Designs
-    </h2> 
+
+
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Nonlinear and Nonseparable Structural Functions in Fuzzy Regression Discontinuity Designs </li> </ul>
+    </h3> 
     <p> 
-    April 2022. <i>Job Market Paper.</i>
+    <ul style="list-style-type:none"> <li>April 2022.  </li> </ul>
     </p>
-    <a data-toggle="collapse" data-target="#nonlinear-structural-function-rdd"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2204.08168" class="btn" role="button">arXiv</a>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#nonlinear-structural-function-rdd"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2204.08168" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="nonlinear-structural-function-rdd">
-      <p>This paper examines the identification and estimation of the structural function in fuzzy regression discontinuity (RD) designs with a continuous treatment variable. Under a dual monotonicity condition, we show that the nonlinear and nonseparable structural function can be nonparametrically identified at the RD cutoff. The dual monotonicity condition requires that the structural function and the treatment choice be strictly increasing in the unobserved causal factor. This condition is satisfied by standard parametric models used in practice. The identification result contrasts with the local average treatment effect literature, where only a certain weighted average of the structural function is identified. We propose a three-step semiparametric estimation procedure and derive the asymptotic distribution of the estimator. The semiparametric estimator achieves the same convergence rate as in the case of a binary treatment variable. As an application of the method, we estimate the causal effect of sleep time on health status by the discontinuity in natural light timing at time-zone boundaries.</p>
+      <ul style="list-style-type:none"> <li>This paper examines the identification and estimation of the structural function in fuzzy regression discontinuity (RD) designs with a continuous treatment variable. Under a dual monotonicity condition, we show that the nonlinear and nonseparable structural function can be nonparametrically identified at the RD cutoff. The dual monotonicity condition requires that the structural function and the treatment choice be strictly increasing in the unobserved causal factor. This condition is satisfied by standard parametric models used in practice. The identification result contrasts with the local average treatment effect literature, where only a certain weighted average of the structural function is identified. We propose a three-step semiparametric estimation procedure and derive the asymptotic distribution of the estimator. The semiparametric estimator achieves the same convergence rate as in the case of a binary treatment variable. As an application of the method, we estimate the causal effect of sleep time on health status by the discontinuity in natural light timing at time-zone boundaries.</li> </ul>
     </div>
     
 </article>
 </div>
 
+<h2 class="archive__item-title" itemprop="headline"> Publications </h2>
 
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h2 class="archive__item-title" itemprop="headline">
-      Data-based Price Discrimination: Information Theoretic Limitations and A Minimax Optimal Strategy
-    </h2> 
-    <p> 
-    April 2022 (with <a href="https://sites.google.com/view/ying-zhu/ying-zhu">Ying Zhu</a>).
-    </p>
-    <a data-toggle="collapse" data-target="#data-based-price-discrimination"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2204.12723" class="btn" role="button">arXiv</a>
-    <div class="collapse" id="data-based-price-discrimination">
-      <p>This paper studies the gap between the classical pricing theory and the data-based pricing theory. We focus on the problem of price discrimination with a continuum of buyer types based on a finite sample of observations. Our first set of results provides sharp lower bounds in the worst-case scenario for the discrepancy between any data-based pricing strategies and the theoretical optimal third-degree price discrimination (3PD) strategy (respectively, uniform pricing strategy) derived from the distribution (where the sample is drawn) ranging over a large class of distributions. Consequently, there is an inevitable gap between revenues based on any data-based pricing strategy and the revenue based on the theoretical optimal 3PD (respectively, uniform pricing) strategy. We then propose easy-to-implement data-based 3PD and uniform pricing strategies and show each strategy is minimax optimal in the sense that the gap between their respective revenue and the revenue based on the theoretical optimal 3PD (respectively, uniform pricing) strategy matches our worst-case lower bounds up to constant factors (that are independent of the sample size $n$). We show that 3PD strategies are revenue superior to uniform pricing strategies if and only if the sample size n is large enough. In other words, if $n$ is below a threshold, uniform pricing strategies are revenue superior to 3PD strategies. We further provide upper bounds for the gaps between the welfare generated by our minimax optimal 3PD (respectively, uniform pricing) strategy and the welfare based on the theoretical optimal 3PD (respectively, uniform pricing) strategy.</p>
-    </div>
-
-</article>
-</div>
-
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-<h2 class="archive__item-title" itemprop="headline">
-      Personalized Subsidy Rules
-    </h2> 
-    <p> 
-    March 2022 (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Under Review.</i>
-    </p>
-    <a data-toggle="collapse" data-target="#personalized-subsidy-rules"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2202.13545" class="btn" role="button">arXiv</a>
-    <div class="collapse" id="personalized-subsidy-rules">
-      <p>Subsidies are commonly used to encourage behaviors that can lead to short- or long-term benefits. Typical examples include subsidized job training programs and provisions of preventive health products, in which both behavioral responses and associated gains can exhibit heterogeneity. This study uses the marginal treatment effect (MTE) framework to study personalized assignments of subsidies based on individual characteristics. First, we derive the optimality condition for a welfare-maximizing subsidy rule by showing that the welfare can be represented as a function of the MTE. Next, we show that subsidies generally result in better welfare than directly mandating the encouraged behavior because subsidy rules implicitly target individuals through unobserved heterogeneity in the behavioral response. When there is positive selection, that is, when individuals with higher returns are more likely to select the encouraged behavior, the optimal subsidy rule achieves the first-best welfare, which is the optimal welfare if a policy-maker can observe individuals' private information. We then provide methods to (partially) identify the optimal subsidy rule when the MTE is identified and unidentified. Particularly, positive selection allows for the point identification of the optimal subsidy rule even when the MTE curve is not identified. As an empirical application, we study the optimal wage subsidy using the experimental data from the Jordan New Opportunities for Women pilot study.</p>
-    </div>
-    
-</article>
-</div>
-
-
-
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-<h2 class="archive__item-title" itemprop="headline">
-      Efficient and Robust Estimation of the Generalized LATE Model
-    </h2> 
-    <p> 
-    February 2022. <i>Under Review.</i>
-    </p>
-    <a data-toggle="collapse" data-target="#efficient-robust-estimation-glate"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2001.06746" class="btn" role="button">arXiv</a>
-    <div class="collapse" id="efficient-robust-estimation-glate">
-      <p>This paper studies the estimation of causal parameters in the generalized local average treatment effect (GLATE) model, a generalization of the classical LATE model encompassing multi-valued treatment and instrument. We derive the efficient influence function (EIF) and the semiparametric efficiency bound (SPEB) for two types of parameters: local average structural function (LASF) and local average structural function for the treated (LASF-T). The moment condition generated by the EIF satisfies two robustness properties: double robustness and Neyman orthogonality. Based on the robust moment condition, we propose the double/debiased machine learning (DML) estimators for LASF and LASF-T. The DML estimator is semiparametric efficient and suitable for high dimensional settings. We also propose null-restricted inference methods that are robust against weak identification issues. As an empirical application, we study the effects across different sources of health insurance by applying the developed methods to the Oregon Health Insurance Experiment.</p>
-    </div>
-    
-</article>
-</div>
-
-
-
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-<h2 class="archive__item-title" itemprop="headline">
-      Global Representation of the Conditional LATE Model: A Separability Result
-    </h2> 
-    <p> 
-    December 2021. (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Forthcoming, Oxford Bulletin of Economics and Statistics.</i>
-    </p>
-    <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
+    </h3> 
+    <ul style="list-style-type:none"> <li>
+    (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, July 2022.</i>
+    </li> </ul>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
     <a href="https://doi.org/10.1111/obes.12476" class="btn" role="button">Published version</a>
-    <a href="https://arxiv.org/abs/2007.08106" class="btn" role="button">arXiv</a>
+    <a href="https://arxiv.org/abs/2007.08106" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="global-representation-conditional-late">
-      <p>This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We find that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.</p>
+      <ul style="list-style-type:none"> <li> This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We find that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.</li> </ul>
+    </div>
+    
+</article>
+</div>
+
+<h2 class="archive__item-title" itemprop="headline"> Papers in Submission </h2>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+    <ul> <li> Personalized Subsidy Rules </li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li> (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>) March 2022. <i>Under Review.</i> </li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#personalized-subsidy-rules"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2202.13545" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="personalized-subsidy-rules">
+      <ul style="list-style-type:none"> <li><p> Subsidies are commonly used to encourage behaviors that can lead to short- or long-term benefits. Typical examples include subsidized job training programs and provisions of preventive health products, in which both behavioral responses and associated gains can exhibit heterogeneity. This study uses the marginal treatment effect (MTE) framework to study personalized assignments of subsidies based on individual characteristics. First, we derive the optimality condition for a welfare-maximizing subsidy rule by showing that the welfare can be represented as a function of the MTE. Next, we show that subsidies generally result in better welfare than directly mandating the encouraged behavior because subsidy rules implicitly target individuals through unobserved heterogeneity in the behavioral response. When there is positive selection, that is, when individuals with higher returns are more likely to select the encouraged behavior, the optimal subsidy rule achieves the first-best welfare, which is the optimal welfare if a policy-maker can observe individuals' private information. We then provide methods to (partially) identify the optimal subsidy rule when the MTE is identified and unidentified. Particularly, positive selection allows for the point identification of the optimal subsidy rule even when the MTE curve is not identified. As an empirical application, we study the optimal wage subsidy using the experimental data from the Jordan New Opportunities for Women pilot study. </p> </li> </ul>
     </div>
     
 </article>
@@ -107,16 +73,40 @@ author_profile: true
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h2 class="archive__item-title" itemprop="headline">
-      Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution
-    </h2> 
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Efficient and Robust Estimation of the Generalized LATE Model </li> </ul>
+    </h3> 
     <p> 
-    December 2021. <i>Under Review.</i>
+    <ul style="list-style-type:none"> <li>February 2022. <i>R&R, Journal of Business and Economic Statistics.</i> </li> </ul>
     </p>
-    <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#efficient-robust-estimation-glate"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2001.06746" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="efficient-robust-estimation-glate">
+      <ul style="list-style-type:none"> <li>This paper studies the estimation of causal parameters in the generalized local average treatment effect (GLATE) model, a generalization of the classical LATE model encompassing multi-valued treatment and instrument. We derive the efficient influence function (EIF) and the semiparametric efficiency bound (SPEB) for two types of parameters: local average structural function (LASF) and local average structural function for the treated (LASF-T). The moment condition generated by the EIF satisfies two robustness properties: double robustness and Neyman orthogonality. Based on the robust moment condition, we propose the double/debiased machine learning (DML) estimators for LASF and LASF-T. The DML estimator is semiparametric efficient and suitable for high dimensional settings. We also propose null-restricted inference methods that are robust against weak identification issues. As an empirical application, we study the effects across different sources of health insurance by applying the developed methods to the Oregon Health Insurance Experiment. </li> </ul>
+    </div>
+    
+</article>
+</div>
+
+
+
+
+
+
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution </li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li> December 2021. <i>Under Review.</i> </li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="uniform-convergence-results-llr">
-      <p>This paper examines the local linear regression (LLR) estimate of the conditional distribution function $F(y|x)$. We derive three uniform convergence results: the uniform bias expansion, the uniform convergence rate, and the uniform asymptotic linear representation. The uniformity in the above results is with respect to both $x$ and $y$ and therefore has not previously been addressed in the literature on local polynomial regression. Such uniform convergence results are especially useful when the conditional distribution estimator is the first stage of a semiparametric estimator. We demonstrate the usefulness of these uniform results with two examples: the stochastic equicontinuity condition in $y$, and the estimation of the integrated conditional distribution function.</p>
+      <ul style="list-style-type:none"> <li> This paper examines the local linear regression (LLR) estimate of the conditional distribution function $F(y|x)$. We derive three uniform convergence results: the uniform bias expansion, the uniform convergence rate, and the uniform asymptotic linear representation. The uniformity in the above results is with respect to both $x$ and $y$ and therefore has not previously been addressed in the literature on local polynomial regression. Such uniform convergence results are especially useful when the conditional distribution estimator is the first stage of a semiparametric estimator. We demonstrate the usefulness of these uniform results with two examples: the stochastic equicontinuity condition in $y$, and the estimation of the integrated conditional distribution function.</li> </ul>
     </div>
     
 </article>
@@ -127,17 +117,38 @@ author_profile: true
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h2 class="archive__item-title" itemprop="headline">
-      Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents
-    </h2> 
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
+    </h3> 
     <p> 
-    July 2021. (with Jin Xi). <i>Under Review.</i>
+    <ul style="list-style-type:none"> <li>(with Jin Xi) July 2021. <i>Under Review.</i> </li> </ul>
     </p>
-    <a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="strength-in-number-robust">
-      <p>This study examines the mechanism design problem for public goods provision in a large economy with $n$ independent agents. We propose a class of dominant-strategy incentive compatible and ex-post individually rational mechanisms, which we call the adjusted mean-thresholding (AMT) mechanisms. We show that when the cost of provision grows slower than the $\sqrt{n}$-rate, the AMT mechanisms are both eventually ex-ante budget balanced and asymptotically efficient. When the cost grows faster than the $\sqrt{n}$-rate, in contrast, we show that any incentive compatible, individually rational, and eventually ex-ante budget balanced mechanism must have provision probability converging to zero and hence cannot be asymptotically efficient. The AMT mechanisms have a simple form and are more informationally robust when compared to, for example, the second-best mechanism. This is because the construction of an AMT mechanism depends only on the first moment of the valuation distribution.</p>
+      <ul style="list-style-type:none"> <li>This study examines the mechanism design problem for public goods provision in a large economy with $n$ independent agents. We propose a class of dominant-strategy incentive compatible and ex-post individually rational mechanisms, which we call the adjusted mean-thresholding (AMT) mechanisms. We show that when the cost of provision grows slower than the $\sqrt{n}$-rate, the AMT mechanisms are both eventually ex-ante budget balanced and asymptotically efficient. When the cost grows faster than the $\sqrt{n}$-rate, in contrast, we show that any incentive compatible, individually rational, and eventually ex-ante budget balanced mechanism must have provision probability converging to zero and hence cannot be asymptotically efficient. The AMT mechanisms have a simple form and are more informationally robust when compared to, for example, the second-best mechanism. This is because the construction of an AMT mechanism depends only on the first moment of the valuation distribution.</li> </ul>
     </div>
     
 </article>
 </div>
+
+<h2 class="archive__item-title" itemprop="headline"> Working Papers </h2>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Data-based Price Discrimination: Information Theoretic Limitations and A Minimax Optimal Strategy</li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/ying-zhu/ying-zhu">Ying Zhu</a>) April 2022.</li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#data-based-price-discrimination"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2204.12723" class="btn" role="button">arXiv</a></li> </ul>
+    <div class="collapse" id="data-based-price-discrimination">
+      <ul style="list-style-type:none"> <li>This paper studies the gap between the classical pricing theory and the data-based pricing theory. We focus on the problem of price discrimination with a continuum of buyer types based on a finite sample of observations. Our first set of results provides sharp lower bounds in the worst-case scenario for the discrepancy between any data-based pricing strategies and the theoretical optimal third-degree price discrimination (3PD) strategy (respectively, uniform pricing strategy) derived from the distribution (where the sample is drawn) ranging over a large class of distributions. Consequently, there is an inevitable gap between revenues based on any data-based pricing strategy and the revenue based on the theoretical optimal 3PD (respectively, uniform pricing) strategy. We then propose easy-to-implement data-based 3PD and uniform pricing strategies and show each strategy is minimax optimal in the sense that the gap between their respective revenue and the revenue based on the theoretical optimal 3PD (respectively, uniform pricing) strategy matches our worst-case lower bounds up to constant factors (that are independent of the sample size $n$). We show that 3PD strategies are revenue superior to uniform pricing strategies if and only if the sample size n is large enough. In other words, if $n$ is below a threshold, uniform pricing strategies are revenue superior to 3PD strategies. We further provide upper bounds for the gaps between the welfare generated by our minimax optimal 3PD (respectively, uniform pricing) strategy and the welfare based on the theoretical optimal 3PD (respectively, uniform pricing) strategy.</li> </ul>
+    </div>
+
+</article>
+</div>
+
