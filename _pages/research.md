@@ -36,7 +36,7 @@ author_profile: true
       <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
     </h3> 
     <ul style="list-style-type:none"> <li>
-    (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, July 2022.</i>
+    (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, August 2022.</i>
     </li> </ul>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
     <a href="https://doi.org/10.1111/obes.12476" class="btn" role="button">Published version</a>
