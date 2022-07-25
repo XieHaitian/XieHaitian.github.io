@@ -77,7 +77,7 @@ author_profile: true
       <ul> <li> Efficient and Robust Estimation of the Generalized LATE Model </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>February 2022. <i>R&R, Journal of Business and Economic Statistics.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>February 2022. <i>R&R, Journal of Business & Economic Statistics.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#efficient-robust-estimation-glate"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2001.06746" class="btn" role="button">arXiv</a> </li> </ul>
