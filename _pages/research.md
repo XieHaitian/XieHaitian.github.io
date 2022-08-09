@@ -36,7 +36,7 @@ author_profile: true
       <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
     </h3> 
     <ul style="list-style-type:none"> <li>
-    (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>). <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, August 2022.</i>
+    (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, August 2022.</i>
     </li> </ul>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
     <a href="https://doi.org/10.1111/obes.12476" class="btn" role="button">Published version</a>
@@ -57,7 +57,7 @@ author_profile: true
     <ul> <li> Personalized Subsidy Rules </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li> (with <a href="https://sites.google.com/view/yu-chang">Yu-Chang Chen</a>) March 2022. <i>Under Review.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li> (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) March 2022. <i>Under Review.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#personalized-subsidy-rules"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2202.13545" class="btn" role="button">arXiv</a> </li> </ul>
@@ -121,7 +121,7 @@ author_profile: true
       <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>(with Jin Xi) July 2021. <i>Under Review.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Under Review.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
