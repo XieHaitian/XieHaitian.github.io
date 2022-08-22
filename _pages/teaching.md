@@ -18,7 +18,7 @@ Please see the following records for more details.
 
 - ECON 120A: Introduction to Econometrics (Undergraduate)
 
-### As Teaching Assistance
+### As Teaching Assistant
 
 - Econometrics PhD Qualifying Exam Review
 
@@ -26,7 +26,7 @@ Please see the following records for more details.
 
 - ECON 220A: Econometrics A (PhD Core)
 
-  Fall 2021, Fall 2020, Fall 2019
+  Fall 2022, Fall 2021, Fall 2020, Fall 2019
 
 - ECON 178: Economic & Business Forecasting (Undergraduate)
 
