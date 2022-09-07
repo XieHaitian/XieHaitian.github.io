@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching makes a difference. I enjoy teaching because I can motivate, encourage, and inspire students. As an instructor, I embrace the following three principles in teaching: (1) student-centered and equitable teaching; (2) intentional active learning; (3) growth mindset. When teaching econometrics courses, I always make every effort to explain the abstract concepts and complex methods in a simple and intuitive way. I have maintained a 100% approval rating from students for all the econometrics courses I taught since 2020.
+Teaching makes a difference. I enjoy teaching because I can motivate, encourage, and inspire students. As an instructor, I embrace the following three principles in teaching: (1) student-centered and equitable teaching; (2) intentional active learning; (3) growth mindset. When teaching econometrics courses, I always make every effort to explain the abstract concepts and complex methods in a simple and intuitive way. 
 
 Please see the following records for more details.
 
