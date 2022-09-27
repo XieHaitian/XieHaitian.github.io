@@ -6,7 +6,8 @@ author_profile: true
 
 ### 2022
 
-South Economic Association 92nd Annual Meeting (Fort Lauderdale, FL): Nov 19 - 21 \
+Peking University, National School of Development (seminar): Dec \
+South Economic Association 92nd Annual Meeting (Fort Lauderdale, FL): Nov 21 \
 Young Economist Symposium (Yale): Aug 19 \
 Asian Meeting of the Econometric Society in East and South-East Asia (virtual): Aug 08 \
 The 16th International Symposium on Econometric Theory and Applications (virtual): Jul 20 \

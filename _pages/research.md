@@ -50,23 +50,7 @@ author_profile: true
 
 <h2 class="archive__item-title" itemprop="headline"> Papers in Submission </h2>
 
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h3 class="archive__item-title" itemprop="headline">
-    <ul> <li> Personalized Subsidy Rules </li> </ul>
-    </h3> 
-    <p> 
-    <ul style="list-style-type:none"> <li> (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) March 2022. <i>Under Review.</i> </li> </ul>
-    </p>
-    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#personalized-subsidy-rules"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2202.13545" class="btn" role="button">arXiv</a> </li> </ul>
-    <div class="collapse" id="personalized-subsidy-rules">
-      <ul style="list-style-type:none"> <li><p> Subsidies are commonly used to encourage behaviors that can lead to short- or long-term benefits. Typical examples include subsidized job training programs and provisions of preventive health products, in which both behavioral responses and associated gains can exhibit heterogeneity. This study uses the marginal treatment effect (MTE) framework to study personalized assignments of subsidies based on individual characteristics. First, we derive the optimality condition for a welfare-maximizing subsidy rule by showing that the welfare can be represented as a function of the MTE. Next, we show that subsidies generally result in better welfare than directly mandating the encouraged behavior because subsidy rules implicitly target individuals through unobserved heterogeneity in the behavioral response. When there is positive selection, that is, when individuals with higher returns are more likely to select the encouraged behavior, the optimal subsidy rule achieves the first-best welfare, which is the optimal welfare if a policy-maker can observe individuals' private information. We then provide methods to (partially) identify the optimal subsidy rule when the MTE is identified and unidentified. Particularly, positive selection allows for the point identification of the optimal subsidy rule even when the MTE curve is not identified. As an empirical application, we study the optimal wage subsidy using the experimental data from the Jordan New Opportunities for Women pilot study. </p> </li> </ul>
-    </div>
-    
-</article>
-</div>
 
 
 
@@ -77,7 +61,7 @@ author_profile: true
       <ul> <li> Efficient and Robust Estimation of the Generalized LATE Model </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>February 2022. <i>R&R, Journal of Business & Economic Statistics.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>February 2022. <i>Revise and Resubmit, Journal of Business & Economic Statistics.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#efficient-robust-estimation-glate"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2001.06746" class="btn" role="button">arXiv</a> </li> </ul>
@@ -101,7 +85,7 @@ author_profile: true
       <ul> <li> Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li> December 2021. <i>Under Review.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li> December 2021. <i>Revise and Resubmit, Statistics & Probability Letters.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
@@ -138,6 +122,24 @@ author_profile: true
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
 <h3 class="archive__item-title" itemprop="headline">
+    <ul> <li> Personalized Subsidy Rules </li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li> (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) March 2022. </li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#personalized-subsidy-rules"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2202.13545" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="personalized-subsidy-rules">
+      <ul style="list-style-type:none"> <li><p> Subsidies are commonly used to encourage behaviors that can lead to short- or long-term benefits. Typical examples include subsidized job training programs and provisions of preventive health products, in which both behavioral responses and associated gains can exhibit heterogeneity. This study uses the marginal treatment effect (MTE) framework to study personalized assignments of subsidies based on individual characteristics. First, we derive the optimality condition for a welfare-maximizing subsidy rule by showing that the welfare can be represented as a function of the MTE. Next, we show that subsidies generally result in better welfare than directly mandating the encouraged behavior because subsidy rules implicitly target individuals through unobserved heterogeneity in the behavioral response. When there is positive selection, that is, when individuals with higher returns are more likely to select the encouraged behavior, the optimal subsidy rule achieves the first-best welfare, which is the optimal welfare if a policy-maker can observe individuals' private information. We then provide methods to (partially) identify the optimal subsidy rule when the MTE is identified and unidentified. Particularly, positive selection allows for the point identification of the optimal subsidy rule even when the MTE curve is not identified. As an empirical application, we study the optimal wage subsidy using the experimental data from the Jordan New Opportunities for Women pilot study. </p> </li> </ul>
+    </div>
+    
+</article>
+</div>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
       <ul> <li> Data-based Price Discrimination: Information Theoretic Limitations and A Minimax Optimal Strategy</li> </ul>
     </h3> 
     <p> 
@@ -152,3 +154,20 @@ author_profile: true
 </article>
 </div>
 
+
+
+<h2 class="archive__item-title" itemprop="headline"> Work In Progress </h2>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Grenander-type Density Estimation of Second-price Auctions under Myerson Regularity</li> </ul>
+    </h3> 
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#grenander-auction-myerson"  class="btn" role="button">Abstract</a></li> </ul>
+    <div class="collapse" id="grenander-auction-myerson">
+      <ul style="list-style-type:none"> <li>This study examines the density estimation of private values from second-price auctions. Instead of the standard smoothing-based density estimators, we propose a Grenander-type estimator based on a shape restriction. The shape restriction is a convexity constraint, which is an equivalent representation of the famous Myerson regularity condition in the auction theory. The proposed estimator is nonparametric and yet tunning-parameter-free. We derive the consistency and the asymptotic distribution of the estimator under mild assumptions.</li> </ul>
+    </div>
+
+</article>
+</div>
