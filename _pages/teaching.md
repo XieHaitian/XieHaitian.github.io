@@ -4,9 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching makes a difference. I enjoy teaching because I can motivate, encourage, and inspire students. As an instructor, I embrace the following three principles in teaching: (1) student-centered and equitable teaching; (2) intentional active learning; (3) growth mindset. When teaching econometrics courses, I always make every effort to explain the abstract concepts and complex methods in a simple and intuitive way. 
-
-Please see the following records for more details.
+Teaching makes a difference. I enjoy teaching because I can motivate, encourage, and inspire students. 
+Please see my [teaching statement](/files/Xie_teaching_statement.pdf) for my teaching experience and philosophy.
 
 ## UC San Diego
 

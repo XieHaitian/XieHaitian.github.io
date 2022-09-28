@@ -86,7 +86,7 @@ author:
   location         : #"San Diego, CA"
   employer         : UC San Diego
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=iMTE6PIAAAAJ"
   email            : hax082@ucsd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

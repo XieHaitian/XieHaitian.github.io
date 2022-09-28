@@ -166,7 +166,7 @@ author_profile: true
     </h3> 
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#grenander-auction-myerson"  class="btn" role="button">Abstract</a></li> </ul>
     <div class="collapse" id="grenander-auction-myerson">
-      <ul style="list-style-type:none"> <li>This study examines the density estimation of private values from second-price auctions. Instead of the standard smoothing-based density estimators, we propose a Grenander-type estimator based on a shape restriction. The shape restriction is a convexity constraint, which is an equivalent representation of the famous Myerson regularity condition in the auction theory. The proposed estimator is nonparametric and yet tunning-parameter-free. We derive the consistency and the asymptotic distribution of the estimator under mild assumptions.</li> </ul>
+      <ul style="list-style-type:none"> <li>This study examines the density estimation of private values from second-price auctions. Instead of the standard smoothing-based density estimators, we propose a Grenander-type estimator based on a shape restriction. The shape restriction is a convexity constraint, which is an equivalent representation of the famous Myerson regularity condition in the auction theory. The proposed estimator is nonparametric and yet tunning-parameter-free. We derive the cube root consistency and a non-normal asymptotic distribution of the estimator under mild assumptions.</li> </ul>
     </div>
 
 </article>
