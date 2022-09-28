@@ -23,4 +23,3 @@ My research fields are econometrics and economic theory. My recent research focu
 - Robust mechanism design
 - Data-based price discrimination
 
-Please see my [research statement](/files/Xie_research_statement.pdf) for more details.

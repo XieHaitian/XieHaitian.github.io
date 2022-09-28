@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Please see my [research statement](/files/Xie_research_statement.pdf) for my research agenda.
+
 <h2 class="archive__item-title" itemprop="headline"> Job Market Paper </h2>
 
 <div>
