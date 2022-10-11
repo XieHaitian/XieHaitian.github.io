@@ -87,7 +87,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
       <ul> <li> Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li> December 2021. <i>Revise and Resubmit, Statistics & Probability Letters.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li> December 2021. <i>Revise and Resubmit (second round), Statistics & Probability Letters.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
