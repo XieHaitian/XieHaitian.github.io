@@ -18,7 +18,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
       <ul> <li> Nonlinear and Nonseparable Structural Functions in Fuzzy Regression Discontinuity Designs </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>April 2022.  </li> </ul>
+    <ul style="list-style-type:none"> <li>November 2022.  </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#nonlinear-structural-function-rdd"  class="btn" role="button">Abstract</a>
     <a href="/files/HaitianXie_JMP.pdf" class="btn" role="button">Latest version</a> 
