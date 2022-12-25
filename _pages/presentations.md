@@ -7,6 +7,7 @@ author_profile: true
 ### 2022
 
 12/28 Peking University, Guanghua School of Management \
+12/26 Peking University, National School of Development \
 12/05 Shanghai Jiao Tong University, Antai College of Economics & Management \
 12/02 Peking University, Workshop on Econometrics, Finance and Big Data Analysis [[link]](https://mp.weixin.qq.com/s/x-vfKGamrdQM65eNIdTkdA)\
 11/21 South Economic Association 92nd Annual Meeting (Fort Lauderdale, FL) \
