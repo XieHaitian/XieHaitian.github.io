@@ -6,6 +6,7 @@ author_profile: true
 
 ### 2022
 
+12/29 Chinese University of Hong Kong, Shenzhen \
 12/28 Peking University, Guanghua School of Management \
 12/26 Peking University, National School of Development \
 12/05 Shanghai Jiao Tong University, Antai College of Economics & Management \
