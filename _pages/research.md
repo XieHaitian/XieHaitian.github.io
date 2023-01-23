@@ -109,7 +109,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
       <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Under Review.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Revise and Resubmit (minor revision), Social Choice and Welfare.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
