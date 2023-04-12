@@ -11,15 +11,10 @@ redirect_from:
 &nbsp;
 
 
-Welcome to my website! I'm a PhD candidate in the [Economics Department](https://economics.ucsd.edu/) at UC San Diego, co-advised by Professor [Graham Elliott](https://econweb.ucsd.edu/~gelliott/) and Professor [Yixiao Sun](https://econweb.ucsd.edu/~yisun/). Before joining UCSD, I received my BA in Economics and BS in Mathematics from [Wuhan University](https://en.whu.edu.cn). 
+Welcome to my website! I'm a PhD candidate (dissertation defended, graduating in June) in the [Economics Department](https://economics.ucsd.edu/) at UC San Diego, co-advised by Professor [Graham Elliott](https://econweb.ucsd.edu/~gelliott/) and Professor [Yixiao Sun](https://econweb.ucsd.edu/~yisun/). Before joining UCSD, I received my BA in Economics and BS in Mathematics from [Wuhan University](https://en.whu.edu.cn). 
 
-I am on the 2022-2023 job market.
+After graduation, I will join Peking University, Guanghua School of Management as an Assistant Professor.
 
-My research fields are econometrics and economic theory. My recent research focuses on
-- Causal inference
-  - regression discontinuity design
-  - local average treatment effect
-- Personalized policy design
-- Robust mechanism design
-- Data-based price discrimination
+My research focuses on econometrics, causal inference, statistical decisions.
+
 
