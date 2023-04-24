@@ -7,7 +7,7 @@ author_profile: true
 
 Please see my [research statement](/files/Xie_research_statement.pdf) for my research agenda.
 
-<h2 class="archive__item-title" itemprop="headline"> Job Market Paper </h2>
+<h2 class="archive__item-title" itemprop="headline"> Working Papers </h2>
 
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -18,10 +18,10 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
       <ul> <li> Nonlinear and Nonseparable Structural Functions in Fuzzy Regression Discontinuity Designs </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>November 2022.  </li> </ul>
+    <ul style="list-style-type:none"> <li>November 2022. <i>Submitted.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#nonlinear-structural-function-rdd"  class="btn" role="button">Abstract</a>
-    <a href="/files/HaitianXie_JMP.pdf" class="btn" role="button">Latest version</a> 
+    <a href="/files/Nonlinear_RD.pdf" class="btn" role="button">Latest version</a> 
     <a href="/files/HaitianXie_JMP_slides.pdf" class="btn" role="button">Slides</a>
     <a href="https://arxiv.org/abs/2204.08168" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="nonlinear-structural-function-rdd">
@@ -30,31 +30,6 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
     
 </article>
 </div>
-
-<h2 class="archive__item-title" itemprop="headline"> Publications </h2>
-
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-<h3 class="archive__item-title" itemprop="headline">
-      <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
-    </h3> 
-    <ul style="list-style-type:none"> <li>
-    (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, August 2022.</i>
-    </li> </ul>
-    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
-    <a href="https://doi.org/10.1111/obes.12476" class="btn" role="button">Published version</a>
-    <a href="https://arxiv.org/abs/2007.08106" class="btn" role="button">arXiv</a> </li> </ul>
-    <div class="collapse" id="global-representation-conditional-late">
-      <ul style="list-style-type:none"> <li> This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We find that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.</li> </ul>
-    </div>
-    
-</article>
-</div>
-
-<h2 class="archive__item-title" itemprop="headline"> Papers in Submission </h2>
-
-
 
 
 
@@ -120,7 +95,23 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 </article>
 </div>
 
-<h2 class="archive__item-title" itemprop="headline"> Working Papers </h2>
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Information-theoretic Limitations of Data-based Price Discrimination</li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/ying-zhu/ying-zhu">Ying Zhu</a> and <a href="https://denisshishkin.com/">Denis Shishkin</a>) March 2023. <i>Submitted.</i></li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#data-based-price-discrimination"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2204.12723" class="btn" role="button">arXiv</a></li> </ul>
+    <div class="collapse" id="data-based-price-discrimination">
+      <ul style="list-style-type:none"> <li>This paper studies third-degree price discrimination (3PD) based on a random sample of valuation and covariate data, where the covariate is continuous, and the distribution of the data is unknown to the seller. The main results of this paper are twofold. The first set of results is pricing strategy independent and reveals the fundamental information-theoretic limitation of any data-based pricing strategy in revenue generation for two cases: 3PD and uniform pricing. The second set of results proposes the $K$-markets empirical revenue maximization (ERM) strategy and shows that the $K$-markets ERM and the uniform ERM strategies achieve the optimal rate of convergence in revenue to that generated by their respective true-distribution 3PD and uniform pricing optima. Our theoretical and numerical results suggest that the uniform (i.e., $1$-market) ERM strategy generates a larger revenue than the K-markets ERM strategy when the sample size is small enough, and vice versa.</li> </ul>
+    </div>
+
+</article>
+</div>
 
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -140,25 +131,33 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 </article>
 </div>
 
+
+
+
+
+
+
+
+<h2 class="archive__item-title" itemprop="headline"> Publications </h2>
+
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
 <h3 class="archive__item-title" itemprop="headline">
-      <ul> <li> Information-theoretic Limitations of Data-based Price Discrimination</li> </ul>
+      <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
     </h3> 
-    <p> 
-    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/ying-zhu/ying-zhu">Ying Zhu</a> and <a href="https://denisshishkin.com/">Denis Shishkin</a>) February 2023.</li> </ul>
-    </p>
-    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#data-based-price-discrimination"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2204.12723" class="btn" role="button">arXiv</a></li> </ul>
-    <div class="collapse" id="data-based-price-discrimination">
-      <ul style="list-style-type:none"> <li>This paper studies third-degree price discrimination (3PD) based on a random sample of valuation and covariate data, where the covariate is continuous, and the distribution of the data is unknown to the seller. The main results of this paper are twofold. The first set of results is pricing strategy independent and reveals the fundamental information-theoretic limitation of any data-based pricing strategy in revenue generation for two cases: 3PD and uniform pricing. The second set of results proposes the $K$-markets empirical revenue maximization (ERM) strategy and shows that the $K$-markets ERM and the uniform ERM strategies achieve the optimal rate of convergence in revenue to that generated by their respective true-distribution 3PD and uniform pricing optima. Our theoretical and numerical results suggest that the uniform (i.e., $1$-market) ERM strategy generates a larger revenue than the K-markets ERM strategy when the sample size is small enough, and vice versa.</li> </ul>
+    <ul style="list-style-type:none"> <li>
+    (with <a href="https://yu-chang-chen.github.io/">Yu-Chang Chen</a>) <i>Oxford Bulletin of Economics and Statistics, 84: 789-798, August 2022.</i>
+    </li> </ul>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#global-representation-conditional-late"  class="btn" role="button">Abstract</a>
+    <a href="https://doi.org/10.1111/obes.12476" class="btn" role="button">Published version</a>
+    <a href="https://arxiv.org/abs/2007.08106" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="global-representation-conditional-late">
+      <ul style="list-style-type:none"> <li> This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We find that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.</li> </ul>
     </div>
-
+    
 </article>
 </div>
-
-
 
 <h2 class="archive__item-title" itemprop="headline"> Work In Progress </h2>
 
@@ -175,3 +174,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 
 </article>
 </div>
+
+
+
+
