@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haitian Xie (解海天)"
   avatar           : "profilepic0609.jpg"
-  bio              : "PhD in Economics"
+  bio              : "Assistant Professor"
   location         : #"San Diego, CA"
-  employer         : UC San Diego
+  employer         : Peking University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iMTE6PIAAAAJ"
-  email            : hax082@ucsd.edu
+  email            : xht@gsm.pku.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : haitian-xie-136056b5
-  orcid            : #https://orcid.org/0000-0003-4284-081X
+  orcid            : https://orcid.org/0000-0003-4284-081X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

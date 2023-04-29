@@ -11,10 +11,16 @@ redirect_from:
 &nbsp;
 
 
-Welcome to my website! I'm a PhD candidate (dissertation defended, graduating in June) in the [Economics Department](https://economics.ucsd.edu/) at UC San Diego, co-advised by Professor [Graham Elliott](https://econweb.ucsd.edu/~gelliott/) and Professor [Yixiao Sun](https://econweb.ucsd.edu/~yisun/). Before joining UCSD, I received my BA in Economics and BS in Mathematics from [Wuhan University](https://en.whu.edu.cn). 
+Welcome to my website! 
 
-After graduation, I will join Peking University, Guanghua School of Management as an Assistant Professor.
+I am an Assistant Professor at Peking University, Guanghua School of Management, Department of Business Statistics and Econometrics.
 
 My research focuses on econometrics, causal inference, statistical decisions.
+
+I obtained my PhD from the [Economics Department](https://economics.ucsd.edu/) at UC San Diego, where I had the privilege of being co-advised by Professor [Graham Elliott](https://econweb.ucsd.edu/~gelliott/) and Professor [Yixiao Sun](https://econweb.ucsd.edu/~yisun/). Prior to that, I received my BA in Economics and BS in Mathematics from [Wuhan University](https://en.whu.edu.cn). 
+
+
+
+
 
 
