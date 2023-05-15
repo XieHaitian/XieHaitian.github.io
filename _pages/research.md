@@ -77,23 +77,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 
 
 
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h3 class="archive__item-title" itemprop="headline">
-      <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
-    </h3> 
-    <p> 
-    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Revise and Resubmit (minor revision), Social Choice and Welfare.</i> </li> </ul>
-    </p>
-    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
-    <div class="collapse" id="strength-in-number-robust">
-      <ul style="list-style-type:none"> <li>This study examines the mechanism design problem for public goods provision in a large economy with $n$ independent agents. We propose a class of dominant-strategy incentive compatible and ex-post individually rational mechanisms, which we call the adjusted mean-thresholding (AMT) mechanisms. We show that when the cost of provision grows slower than the $\sqrt{n}$-rate, the AMT mechanisms are both eventually ex-ante budget balanced and asymptotically efficient. When the cost grows faster than the $\sqrt{n}$-rate, in contrast, we show that any incentive compatible, individually rational, and eventually ex-ante budget balanced mechanism must have provision probability converging to zero and hence cannot be asymptotically efficient. The AMT mechanisms have a simple form and are more informationally robust when compared to, for example, the second-best mechanism. This is because the construction of an AMT mechanism depends only on the first moment of the valuation distribution.</li> </ul>
-    </div>
-    
-</article>
-</div>
 
 <div>
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -144,6 +128,24 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
 <h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Accepted, Social Choice and Welfare.</i> </li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="strength-in-number-robust">
+      <ul style="list-style-type:none"> <li>This study examines the mechanism design problem for public goods provision in a large economy with $n$ independent agents. We propose a class of dominant-strategy incentive compatible and ex-post individually rational mechanisms, which we call the adjusted mean-thresholding (AMT) mechanisms. We show that when the cost of provision grows slower than the $\sqrt{n}$-rate, the AMT mechanisms are both eventually ex-ante budget balanced and asymptotically efficient. When the cost grows faster than the $\sqrt{n}$-rate, in contrast, we show that any incentive compatible, individually rational, and eventually ex-ante budget balanced mechanism must have provision probability converging to zero and hence cannot be asymptotically efficient. The AMT mechanisms have a simple form and are more informationally robust when compared to, for example, the second-best mechanism. This is because the construction of an AMT mechanism depends only on the first moment of the valuation distribution.</li> </ul>
+    </div>
+    
+</article>
+</div>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
       <ul> <li> Global Representation of the Conditional LATE Model: A Separability Result </li> </ul>
     </h3> 
     <ul style="list-style-type:none"> <li>
@@ -165,11 +167,11 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
 <h3 class="archive__item-title" itemprop="headline">
-      <ul> <li> Grenander-type Density Estimation of Second-price Auctions under Myerson Regularity</li> </ul>
+      <ul> <li> Grenander-type Density Estimation under Myerson Regularity</li> </ul>
     </h3> 
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#grenander-auction-myerson"  class="btn" role="button">Abstract</a></li> </ul>
     <div class="collapse" id="grenander-auction-myerson">
-      <ul style="list-style-type:none"> <li>This study examines the density estimation of private values from second-price auctions. Instead of the standard smoothing-based density estimators, we propose a Grenander-type estimator based on a shape restriction. The shape restriction is a convexity constraint, which is an equivalent representation of the famous Myerson regularity condition in the auction theory. The proposed estimator is nonparametric and yet tunning-parameter-free. We derive the cube root consistency and a non-normal asymptotic distribution of the estimator under mild assumptions.</li> </ul>
+      <ul style="list-style-type:none"> <li> This study presents a novel approach to the density estimation of private values from second-price auctions, diverging from the conventional use of smoothing-based estimators. We introduce a Grenander-type estimator, constructed based on a shape restriction in the form of a convexity constraint. This constraint corresponds to the renowned Myerson regularity condition in auction theory, which is equivalent to the concavity of the revenue function for selling the auction item. Our estimator is nonparametric and does not require any tuning parameters. Under mild assumptions, we establish the cube-root consistency and show that the estimator asymptotically follows the scaled Chernoff's distribution. Moreover, we demonstrate that the estimator achieves the minimax optimal convergence rate.</li> </ul>
     </div>
 
 </article>
