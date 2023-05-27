@@ -107,6 +107,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
     <ul style="list-style-type:none"> <li> May 2023. </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#grenander-auction-myerson"  class="btn" role="button">Abstract</a>
+    <a href="/files/Grenander_Myerson_slides.pdf" class="btn" role="button">Slides</a>
     <a href="https://arxiv.org/abs/2305.09052" class="btn" role="button">arXiv</a></li> </ul>
     <div class="collapse" id="grenander-auction-myerson">
       <ul style="list-style-type:none"> <li> This study presents a novel approach to the density estimation of private values from second-price auctions, diverging from the conventional use of smoothing-based estimators. We introduce a Grenander-type estimator, constructed based on a shape restriction in the form of a convexity constraint. This constraint corresponds to the renowned Myerson regularity condition in auction theory, which is equivalent to the concavity of the revenue function for selling the auction item. Our estimator is nonparametric and does not require any tuning parameters. Under mild assumptions, we establish the cube-root consistency and show that the estimator asymptotically follows the scaled Chernoff's distribution. Moreover, we demonstrate that the estimator achieves the minimax optimal convergence rate.</li> </ul>
