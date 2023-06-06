@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Please see my [research statement](/files/Xie_research_statement.pdf) for my research agenda.
-
 <h2 class="archive__item-title" itemprop="headline"> Working Papers </h2>
 
 <div>
@@ -57,23 +55,7 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 
 
 
-<div>
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-<h3 class="archive__item-title" itemprop="headline">
-      <ul> <li> Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution </li> </ul>
-    </h3> 
-    <p> 
-    <ul style="list-style-type:none"> <li> December 2021. <i>Revise and Resubmit (minor revision), Statistics & Probability Letters.</i> </li> </ul>
-    </p>
-    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
-    <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
-    <div class="collapse" id="uniform-convergence-results-llr">
-      <ul style="list-style-type:none"> <li> This paper examines the local linear regression (LLR) estimate of the conditional distribution function $F(y|x)$. We derive three uniform convergence results: the uniform bias expansion, the uniform convergence rate, and the uniform asymptotic linear representation. The uniformity in the above results is with respect to both $x$ and $y$ and therefore has not previously been addressed in the literature on local polynomial regression. Such uniform convergence results are especially useful when the conditional distribution estimator is the first stage of a semiparametric estimator. We demonstrate the usefulness of these uniform results with two examples: the stochastic equicontinuity condition in $y$, and the estimation of the integrated conditional distribution function.</li> </ul>
-    </div>
-    
-</article>
-</div>
 
 
 
@@ -147,10 +129,28 @@ Please see my [research statement](/files/Xie_research_statement.pdf) for my res
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
 <h3 class="archive__item-title" itemprop="headline">
+      <ul> <li> Uniform Convergence Results for the Local Linear Estimation of the Conditional Distribution </li> </ul>
+    </h3> 
+    <p> 
+    <ul style="list-style-type:none"> <li> <i>Accepted, Statistics & Probability Letters.</i> </li> </ul>
+    </p>
+    <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
+    <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
+    <div class="collapse" id="uniform-convergence-results-llr">
+      <ul style="list-style-type:none"> <li> This paper examines the local linear regression (LLR) estimate of the conditional distribution function $F(y|x)$. We derive three uniform convergence results: the uniform bias expansion, the uniform convergence rate, and the uniform asymptotic linear representation. The uniformity in the above results is with respect to both $x$ and $y$ and therefore has not previously been addressed in the literature on local polynomial regression. Such uniform convergence results are especially useful when the conditional distribution estimator is the first stage of a semiparametric estimator. We demonstrate the usefulness of these uniform results with two examples: the stochastic equicontinuity condition in $y$, and the estimation of the integrated conditional distribution function.</li> </ul>
+    </div>
+    
+</article>
+</div>
+
+<div>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<h3 class="archive__item-title" itemprop="headline">
       <ul> <li> Strength in Numbers: Robust Mechanisms for Public Goods with Many Agents </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>) July 2021. <i>Accepted, Social Choice and Welfare.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>(with <a href="https://sites.google.com/view/jin-xi">Jin Xi</a>). <i>Accepted, Social Choice and Welfare.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#strength-in-number-robust"  class="btn" role="button">Abstract</a>
     <a href="https://arxiv.org/abs/2101.02423" class="btn" role="button">arXiv</a> </li> </ul>
