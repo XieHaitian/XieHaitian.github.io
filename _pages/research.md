@@ -135,6 +135,7 @@ author_profile: true
     <ul style="list-style-type:none"> <li> <i>Accepted, Statistics & Probability Letters.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li> <a data-toggle="collapse" data-target="#uniform-convergence-results-llr"  class="btn" role="button">Abstract</a>
+     <a href="https://doi.org/10.1016/j.spl.2023.109886" class="btn" role="button">Published version</a>
     <a href="https://arxiv.org/abs/2112.08546" class="btn" role="button">arXiv</a> </li> </ul>
     <div class="collapse" id="uniform-convergence-results-llr">
       <ul style="list-style-type:none"> <li> This paper examines the local linear regression (LLR) estimate of the conditional distribution function $F(y|x)$. We derive three uniform convergence results: the uniform bias expansion, the uniform convergence rate, and the uniform asymptotic linear representation. The uniformity in the above results is with respect to both $x$ and $y$ and therefore has not previously been addressed in the literature on local polynomial regression. Such uniform convergence results are especially useful when the conditional distribution estimator is the first stage of a semiparametric estimator. We demonstrate the usefulness of these uniform results with two examples: the stochastic equicontinuity condition in $y$, and the estimation of the integrated conditional distribution function.</li> </ul>
