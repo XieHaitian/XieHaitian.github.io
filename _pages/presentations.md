@@ -6,7 +6,8 @@ author_profile: true
 
 ### 2023
 
-06/30 Asian Meeting of the Econometric Society, Beijing, China \
+07/04 2023 CEMP Workshop on Econometric Theory and Applications (Jinan University) \
+06/30 Asian Meeting of the Econometric Society, Beijing, China (Tsinghua) \
 06/25 North America Summer Meeting of Econometric Society \
 05/30 57th Canadian Economics Association Conference \
 01/10 Hong Kong University of Science and Technology 
