@@ -16,7 +16,7 @@ author_profile: true
       <ul> <li> Nonlinear and Nonseparable Structural Functions in Fuzzy Regression Discontinuity Designs </li> </ul>
     </h3> 
     <p> 
-    <ul style="list-style-type:none"> <li>November 2022. <i>Submitted.</i> </li> </ul>
+    <ul style="list-style-type:none"> <li>November 2022. <i>Revise and Resubmit, Journal of Econometrics.</i> </li> </ul>
     </p>
     <ul style="list-style-type:none"> <li><a data-toggle="collapse" data-target="#nonlinear-structural-function-rdd"  class="btn" role="button">Abstract</a>
     <a href="/files/Nonlinear_RD.pdf" class="btn" role="button">Latest version</a> 
